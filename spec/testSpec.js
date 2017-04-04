@@ -15,6 +15,7 @@ describe("lollipopFactory", function(){
     expect(lollipopFactory('good', 9, true)).toEqual("a perfect lolli!");
     expect(lollipopFactory('loose', 10, false)).toEqual("eh.. passable");
     expect(lollipopFactory('good', 6, true)).toEqual("good enough");
+    expect(lollipopFactory('good', 8, true)).toEqual("good enough");
     expect(lollipopFactory('none', 2, false)).toEqual("i wouldn't even give this to my dog");
   })
 })

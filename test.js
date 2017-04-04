@@ -18,11 +18,11 @@
 // flavor 9 or above, roundness false, and wrapperStatus of 'loose'//
 // return "eh.. passable"                                          //
 
-// flavor 5-9, roundess, true, and wrapperStatus of 'good'         //
+// flavor 5-8, roundess, true, and wrapperStatus of 'good'         //
 // return "good enough"                                            //
 
 //                                                                 //
-// flavor 1-5, roundness false, and wrapperStatus of 'none'        //
+// flavor 1-4, roundness false, and wrapperStatus of 'none'        //
 // return "i wouldn't even give this to my dog"                    //
 
 //                                                                 //
